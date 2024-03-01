@@ -9,5 +9,7 @@ Our visualization will be displayed using Tableau public
 Lastly, an interactive map will be used for users interactions
 
 Mia: Tableau
+
 Christelle: Machine learning
+
 Magdalena: Leaflet; panda/python cleaning of data analysis
