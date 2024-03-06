@@ -9,7 +9,10 @@ Our visualization will be displayed using Tableau public
 Lastly, an interactive map will be used for users interactions
 
 Mia: Tableau
+Started working on tableau
 
-Christelle: Machine learning
+Christelle: Data cleaning, SQL database, Machine learning
+Initiated cleaning of data and creating SQL Database, challenges encountered with large files. We will continue with creating tables for calendar 2 
 
-Magdalena: Leaflet; panda/python cleaning of data analysis
+Magdalena: Leaflet; panda/python cleaning of data analysis. 
+Uploaded calendar csv files to repo
