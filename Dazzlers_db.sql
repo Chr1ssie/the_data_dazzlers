@@ -35,8 +35,8 @@ CREATE TABLE calendar (
   listing_id FLOAT(30),
   date DATE,
   available VARCHAR(30),
-  price VARCHAR(30),
-  adjusted_price INT,
+  price VARCHAR(100),
+  adjusted_price VARCHAR(100),
   minimum_nights FLOAT(30),
   maximum_nights FLOAT(30)
 );
