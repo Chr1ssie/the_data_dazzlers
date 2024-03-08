@@ -12,10 +12,16 @@ Mia: Tableau
 
 Started working on tableau
 
+Continued updating tableau visualization
+
 Christelle: Data cleaning, SQL database, Machine learning
 
 Initiated cleaning of data and creating SQL Database, challenges encountered with large files. We will continue with creating tables for calendar 2 
 
+SQL DB completed.
+
 Magdalena: Leaflet; panda/python cleaning of data analysis. 
 
 Uploaded calendar csv files to repo
+
+Initiated mapping
