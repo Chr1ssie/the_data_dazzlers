@@ -40,7 +40,7 @@ Number of attributes: 18
 The dataset includes both categorical and numeric values, providing a diverse range of information about the listings.
  
 
-The purpose of the analysis is to understand the factors that influence Airbnb prices in Paris, or identifying patterns of all variables and Our analysis provides useful information for travelers and hosts in the city and also provides some best insights for Airbnb business.
+The purpose of the analysis is to understand the factors that influence Airbnb prices in Paris, or identifying patterns of all variables and our analysis provides useful information for travelers and hosts in the city and also provides some best insights for Airbnb business.
 
 
 This dataset contains information about Airbnb bookings in Paris in 2023. By analyzing this data, you may be able to understand the trends and patterns of Airbnb use in the Paris.
