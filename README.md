@@ -27,7 +27,7 @@ Airbnb allows hosts to list their homes, apartments, or other properties for sho
 Airbnb has also become a popular choice for travelers who want to experience a destination like a local, rather than as a tourist. With more than four million listings in over 100,000 cities.
 
 
-About the Dataset – AIRBNB BOOKINGS
+About the Dataset 
 
 
 Dataset – http://insideairbnb.com/get-the-data/
