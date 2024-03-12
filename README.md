@@ -36,10 +36,6 @@ The purpose of the analysis is to understand the factors that influence Airbnb p
 This dataset contains information about Airbnb bookings in Paris in 2023. By analyzing this data, you may be able to understand the trends and patterns of Airbnb use in the Paris.
 
 
-We will try solving, analyzing, or visualizing data concerning Airbnb listings in Paris as well as using machine learning (ML) for the price prediction.
-We will focus on most affordable versus least affordable listings based on location.
-Our visualization will be displayed using Tableau public.
-
 
 - Mia: Tableau
 
