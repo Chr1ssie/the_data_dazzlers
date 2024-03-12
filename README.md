@@ -1,4 +1,4 @@
-                                                Paris Airbnb bookings analysis
+                                                 Paris Airbnb booking analyst
 
 
 
