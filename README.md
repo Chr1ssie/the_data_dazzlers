@@ -27,15 +27,13 @@ Number of instances: 74,000
 Number of attributes: 18
 
 
-The Data includes both categorical and numeric values, providing a diverse range of information about the listings.
+The dataset includes both categorical and numeric values, providing a diverse range of information about the listings.
+ 
 
+The purpose of the analysis is to understand the factors that influence Airbnb prices in Paris, or identifying patterns of all variables and Our analysis provides useful information for travelers and hosts in the city and also provides some best insights for Airbnb business.
 
-This Dataset have been used for analyzing trends and patterns in the Airbnb market in Paris and also gain insights into the preferences and behavior of Airbnb users in the area.
 
 This dataset contains information about Airbnb bookings in Paris in 2023. By analyzing this data, you may be able to understand the trends and patterns of Airbnb use in the Paris.
-
-
-Project proposal: 
 
 
 We will try solving, analyzing, or visualizing data concerning Airbnb listings in Paris as well as using machine learning (ML) for the price prediction.
