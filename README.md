@@ -1,3 +1,11 @@
+![image](https://github.com/Chr1ssie/the_data_dazzlers/assets/145025544/4f8d70ea-51d2-4b8e-a450-f70a8b4bed40)
+
+
+
+
+
+
+
 This Airbnb dataset contains over 74,000 observations from Paris , with 18 columns of data.
 
 
