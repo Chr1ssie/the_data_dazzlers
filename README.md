@@ -1,3 +1,10 @@
+                                                Paris Airbnb bookings analysis
+
+
+
+
+
+
 ![image](https://github.com/Chr1ssie/the_data_dazzlers/assets/145025544/4f8d70ea-51d2-4b8e-a450-f70a8b4bed40)
 
 
