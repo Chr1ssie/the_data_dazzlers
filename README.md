@@ -51,6 +51,8 @@ This dataset contains information about Airbnb bookings in Paris in 2023. By ana
 
 - Christelle: Data cleaning, SQL database, Machine learning
 
-- Magdalena: Panda/python cleaning of data analysis. 
+- Magdalena: Panda/python cleaning of data analysis.
+
+  https://colab.research.google.com/drive/1mfRjGqltTzKLQatob33hbsKn3mtLXso8?usp=drive_link
 
 
