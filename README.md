@@ -53,6 +53,6 @@ This dataset contains information about Airbnb bookings in Paris in 2023. By ana
 
 - Magdalena: Panda/python cleaning of data analysis.
 
-  https://colab.research.google.com/drive/1mfRjGqltTzKLQatob33hbsKn3mtLXso8?usp=drive_link
+  https://drive.google.com/drive/folders/1eF6Urur9DOyCgFtDGTLeBgYVbBwotJWh?usp=drive_link 
 
 
